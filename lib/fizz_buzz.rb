@@ -5,4 +5,5 @@ def fizz_buzz (number)
     else
     number    
     end
+
 end
