@@ -7,7 +7,7 @@ describe 'fizz_buzz' do
     end
     
     it 'returns Fizz! if number is divisable by 3' do
-        expect(fizz_buzz(3)). to eq 'Fizz!'
+    expect(fizz_buzz(3)). to eq 'Fizz!'
     end
     
 end
