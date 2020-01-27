@@ -6,7 +6,7 @@ def fizz_buzz (number)
     'Buzz!'  
     elsif has_zero_remainder?(number, 3)
     'Fizz!' 
-    else
+    else 
         number  
     end
 end
